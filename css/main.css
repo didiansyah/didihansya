@@ -13,10 +13,10 @@ img {
 	max-width: 100%; height: auto;
 	}
 ::selection {
- 	text-shadow: none; color: #fff; background: #FFF9CD;
+ 	text-shadow: none; color: #fff; background: #ffcc2f;
 	}
 ::-moz-selection {
- 	text-shadow: none; color: #fff; background: #FFF9CD;
+ 	text-shadow: none; color: #fff; background: #ffcc2f;
 	}
 /* Loader */
 html {
